@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.evelios.intellijelmmarkup.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.evelios.intellijelmmarkup.MyBundle
 
 class MyApplicationService {
 
