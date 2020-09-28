@@ -1,19 +1,37 @@
 <idea-plugin>
     <id>com.github.evelios.intellijelmmarkup</id>
-    <name>intellij-elm-markup</name>
+    <name>Elm Markup</name>
     <vendor>evelios</vendor>
+    <version>0.0.1</version>
 
     <!-- Product and plugin compatibility requirements -->
     <!-- https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html -->
     <depends>com.intellij.modules.platform</depends>
 
+    <!-- Text to display as description on Preferences/Settings | Plugin page -->
+    <description>
+        <![CDATA[
+      Demonstrates how to add custom language support to an IntelliJ Platform-based IDE. <br>Defines a new language,
+      <i>Simple language</i> with support for syntax highlighting, annotations, code completion, and other features.
+      <br>
+      See the
+      <a href="https://www.jetbrains.org/intellij/sdk/docs/tutorials/custom_language_support_tutorial.html">Custom
+      Language Tutorial</a> for more information.
+    ]]>
+    </description>
+
+    <change-notes>
+        <![CDATA[
+      <ul>
+        <li><b>2.0.0</b> Convert to Gradle-based plugin.</li>
+        <li><b>1.0.0</b> Release 2018.3 and earlier.</li>
+      </ul>
+    ]]>
+    </change-notes>
+
     <extensions defaultExtensionNs="com.intellij">
-        <applicationService serviceImplementation="com.github.evelios.intellijelmmarkup.services.MyApplicationService"/>
-        <projectService serviceImplementation="com.github.evelios.intellijelmmarkup.services.MyProjectService"/>
+        <fileType name="Elm Markup File" implementationClass="com.github.evelios.intellijelmmarkup.ElmMarkupFileType"
+                  fieldName="INSTANCE" language="Elm Markup" extensions="emu"/>
     </extensions>
 
-    <applicationListeners>
-        <listener class="com.github.evelios.intellijelmmarkup.listeners.MyProjectManagerListener"
-                  topic="com.intellij.openapi.project.ProjectManagerListener"/>
-    </applicationListeners>
 </idea-plugin>

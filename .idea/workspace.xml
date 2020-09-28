@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ef89c90d-5e53-450f-beb5-3c6cbbc973c0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/intellij-elm-markup.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/saveactions_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.run/Run Plugin.run.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/github/evelios/intellijelmmarkup/ElmMarkupFileType.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/Basic.emu" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/build.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/build.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" beforeDir="false" afterPath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/github/evelios/intellijelmmarkup/MyBundle.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/github/evelios/intellijelmmarkup/listeners/MyProjectManagerListener.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/github/evelios/intellijelmmarkup/services/MyApplicationService.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/github/evelios/intellijelmmarkup/services/MyProjectService.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/pluginIcon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/pluginIcon.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/messages/MyBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/messages/MyBundle.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ElmWorkspace">
+    <elmProjects />
+    <settings elmCompilerPath="" elmFormatPath="" elmTestPath="" isElmFormatOnSaveEnabled="false" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="intellij-elm-markup" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="intellij-elm-markup" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="intellij-elm-markup" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="intellij" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileColors">
+    <fileColor scope="Open Files" color="Violet" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin Object" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/resources/META-INF/pluginIcon.svg" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="NamedScopeManager">
+    <scope name="Svg" pattern="*.svg" />
+  </component>
+  <component name="ProjectId" id="1i3ARddbi1G7zyPGtAznYbnnj7t" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="org.elm.workspace.PROJECT_DISCOVERY" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.scopes" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.github.evelios.intellijelmmarkup.lang" />
+      <recent name="com.github.evelios.intellijelmmarkup.elmmarkup" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin/com/github/evelios/intellijelmmarkup" />
+      <recent name="$PROJECT_DIR$/src/main/kotlin/com/github/evelios/intellijelmmarkup/lang" />
+      <recent name="$PROJECT_DIR$/src/main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.intellij-elm-markup [runIde]">
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="intellij-elm-markup [assemble]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="assemble" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="intellij-elm-markup [buildPlugin]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="buildPlugin" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="intellij-elm-markup [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="intellij-elm-markup [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jar" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="intellij-elm-markup [runIde]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="runIde" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="intellij-elm-markup" type="GradleRunConfiguration" factoryName="Gradle" nameIsGenerated="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="intellij-elm-markup" />
+      <option name="filePath" value="" />
+      <option name="vmParameters" value="" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" value="" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" value="" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" value="" />
+      <option name="vmParameters" value="" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" value="" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" value="" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -ea" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <alternative-path path="Kotlin SDK" alternative-path-enabled="true" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.intellij-elm-markup" />
+      <item itemvalue="Gradle.intellij-elm-markup [assemble]" />
+      <item itemvalue="Gradle.intellij-elm-markup [buildPlugin]" />
+      <item itemvalue="Gradle.intellij-elm-markup [build]" />
+      <item itemvalue="Gradle.intellij-elm-markup [jar]" />
+      <item itemvalue="Gradle.intellij-elm-markup [runIde]" />
+      <item itemvalue="Plugin.Run Plugin" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.intellij-elm-markup [runIde]" />
+        <item itemvalue="Gradle.intellij-elm-markup [buildPlugin]" />
+        <item itemvalue="Gradle.intellij-elm-markup [jar]" />
+        <item itemvalue="Gradle.intellij-elm-markup [build]" />
+        <item itemvalue="Gradle.intellij-elm-markup [assemble]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef89c90d-5e53-450f-beb5-3c6cbbc973c0" name="Default Changelist" comment="" />
+      <created>1601125895543</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601125895543</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Elm Markup Filetype and Icon" />
+    <option name="LAST_COMMIT_MESSAGE" value="Elm Markup Filetype and Icon" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1363" y="235" width="732" height="644" key="#Inspections" timestamp="1601313989918">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state x="1363" y="235" width="732" height="644" key="#Inspections/0.27.2560.1053@0.27.2560.1053" timestamp="1601313989918" />
+    <state x="1329" y="215" width="800" height="684" key="#Intentions" timestamp="1601313320901">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state x="1329" y="215" width="800" height="684" key="#Intentions/0.27.2560.1053@0.27.2560.1053" timestamp="1601313320901" />
+    <state x="1183" y="141" width="1084" height="884" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601306730359">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state x="1183" y="141" width="1084" height="884" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.2560.1053@0.27.2560.1053" timestamp="1601306730359" />
+    <state x="1517" y="357" width="529" height="400" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601218856410">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state x="1517" y="357" width="529" height="400" key="#com.intellij.fileTypes.FileTypeChooser/0.27.2560.1053@0.27.2560.1053" timestamp="1601218856410" />
+    <state x="1518" y="408" width="525" height="422" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1601298686206">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state x="1518" y="408" width="525" height="422" key="#com.intellij.ide.util.TreeClassChooserDialog/0.27.2560.1053@0.27.2560.1053" timestamp="1601298686206" />
+    <state x="1519" y="303" width="524" height="508" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601221537556">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state x="1519" y="303" width="524" height="508" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.2560.1053@0.27.2560.1053" timestamp="1601221537556" />
+    <state x="1537" y="345" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1601221079795">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state x="1537" y="345" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.27.2560.1053@0.27.2560.1053" timestamp="1601221079795" />
+    <state x="1459" y="398" width="540" height="317" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1601313625825">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state x="1459" y="398" width="540" height="317" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.27.2560.1053@0.27.2560.1053" timestamp="1601313625825" />
+    <state x="1569" y="323" width="424" height="491" key="FileChooserDialogImpl" timestamp="1601313347829">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state x="1569" y="323" width="424" height="491" key="FileChooserDialogImpl/0.27.2560.1053@0.27.2560.1053" timestamp="1601313347829" />
+    <state width="1600" height="168" key="GridCell.Tab.0.bottom" timestamp="1601306933569">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state width="1600" height="168" key="GridCell.Tab.0.bottom/0.27.2560.1053@0.27.2560.1053" timestamp="1601306933569" />
+    <state width="1600" height="168" key="GridCell.Tab.0.center" timestamp="1601306933569">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state width="1600" height="168" key="GridCell.Tab.0.center/0.27.2560.1053@0.27.2560.1053" timestamp="1601306933569" />
+    <state width="1600" height="168" key="GridCell.Tab.0.left" timestamp="1601306933568">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state width="1600" height="168" key="GridCell.Tab.0.left/0.27.2560.1053@0.27.2560.1053" timestamp="1601306933568" />
+    <state width="1600" height="168" key="GridCell.Tab.0.right" timestamp="1601306933569">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state width="1600" height="168" key="GridCell.Tab.0.right/0.27.2560.1053@0.27.2560.1053" timestamp="1601306933569" />
+    <state x="1117" y="161" width="1165" height="737" key="SettingsEditor" timestamp="1601314122686">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state x="1117" y="161" width="1165" height="737" key="SettingsEditor/0.27.2560.1053@0.27.2560.1053" timestamp="1601314122686" />
+    <state x="904" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1601306841225">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state x="904" y="380" key="com.intellij.ide.util.TipDialog/0.27.2560.1053@0.27.2560.1053" timestamp="1601306841225" />
+    <state x="114" y="183" width="1494" height="637" key="com.intellij.javaee.MapExternalResourceDialog" timestamp="1601313348635">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state x="114" y="183" width="1494" height="637" key="com.intellij.javaee.MapExternalResourceDialog/0.27.2560.1053@0.27.2560.1053" timestamp="1601313348635" />
+  </component>
+</project>
